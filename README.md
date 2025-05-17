@@ -35,7 +35,7 @@ Basic SQL project analyzing mock sales data — revenue, customer behavior, prod
 ## 📫 Let's Connect
 
 - 📧 Email: t.tavadzee@gmail.com
-- 💼 LinkedIn: [[linkedin.com/in/torniketavadze](https://www.linkedin.com/in/torniketavadze/)
+- 💼 LinkedIn: [linkedin.com/in/torniketavadze](https://www.linkedin.com/in/torniketavadze/)
 
 ---
 
