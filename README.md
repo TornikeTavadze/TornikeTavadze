@@ -18,9 +18,8 @@ future Data Analyst | Business Student
 ## 🧰 Tools & Technologies
 
 - 📁 **Databases**: MySQL
-- 💻 **Languages**: SQL,
-- 📈 **Analytics**: Excel, Power BI (learning)
-
+- 💻 **Languages**: SQL
+- 📈 **Analytics**: Excel
 ---
 
 ## 📂 Featured Projects
