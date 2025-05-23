@@ -26,7 +26,7 @@ future Data Analyst | Business Student
 
 🔹 [Music Sales Analysis – SQL + Excel](https://github.com/TornikeTavadze/sql-music-sales-analysis.git)
 Exploratory data analysis using SQL on the Chinook database to uncover trends in revenue, customer behavior, genre diversity, and artist performance.  
-Includes visualized results in Excel dashboards using charts and pivot tables.
+Includes visualized results in Excel dashboards using charts.
 
 *More projects coming soon!*
 
