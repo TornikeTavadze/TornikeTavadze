@@ -19,7 +19,7 @@ future Data Analyst | Business Student
 
 - 📁 **Databases**: MySQL
 - 💻 **Languages**: SQL
-- 📈 **Analytics**: Excel
+- 📈 **Analytics**: Excel, Power BI
 ---
 
 ## 📂 Featured Projects
@@ -27,6 +27,10 @@ future Data Analyst | Business Student
 🔹 [Music Sales Analysis – SQL + Excel](https://github.com/TornikeTavadze/sql-music-sales-analysis.git)
 Exploratory data analysis using SQL on the Chinook database to uncover trends in revenue, customer behavior, genre diversity, and artist performance.  
 Includes visualized results in Excel dashboards using charts.
+
+🔹 [Superstore Sales Dashboard – Power BI](https://github.com/TornikeTavadze/superstore-powerbi-dashboard)
+Interactive dashboard built in Power BI to analyze sales performance across regions, product categories, and time.
+Features KPIs, map-based insights, top product breakdowns, and dynamic filters for a fully interactive data experience.
 
 *More projects coming soon!*
 
